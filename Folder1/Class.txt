@@ -1,0 +1,11 @@
+IVHAT Is THE AGILE MANAGER's RoLE?
+
+The agile manager's role is to lead the delivery of business value on agile
+projects by establishing APM principles and practices, and by personally
+embodying APM values (covered later in this chapter).
+
+32 THE AGILE MANAGER
+
+Table 2-1 shows the different responsibilities required to fulfill this role as
+they relate to the APM principles and practices.
+The agile manager's responsibilities, shown in Table

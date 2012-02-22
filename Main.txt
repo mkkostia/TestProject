@@ -1,0 +1,25 @@
+THE AGILE MANAGER
+
+a change
+
+Leadership and management are two distinctive and complementary
+systems if action. Each has its ownfimction and characteristic activities.
+Both are necessary Jar success in todqy :s- business environment.
+-john Kotter, "What Leaders Real(y Do, "
+Harvard Business Review on Leadership
+
+As noted in Chapter 1, "Agile Project Management Defined," aside from
+Serum, agile methodologies do not clearly define the role of the project
+manager. Perhaps this lack of clarity arises from the fact that there is no
+common agreement in the industry as to what the title "project manager"
+means. I have seen it used variously to both include and exclude functions
+such as technical architecture, development process management, staffing,
+project administration, change management, performance appraisal, project
+tracking, accounting, and budgeting. Despite this variance, it has been my
+experience that project managers-defined as those individuals responsible
+for building and leading teams and accountable for their success or failureplay
+a pivotal role in the delivery of business value. This chapter introduces a
+role for such an individual-the agile manager-who is accountable for delivering
+business value on projects that employ agile software development
+methodologies. It also explores what this role requires in terms of underlying
+values and skills.
