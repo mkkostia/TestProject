@@ -8,6 +8,9 @@ Both are necessary Jar success in todqy :s- business environment.
 -john Kotter, "What Leaders Real(y Do, "
 Harvard Business Review on Leadership
 
+
+7665 
+
 As noted in Chapter 1, "Agile Project Management Defined," aside from
 Serum, agile methodologies do not clearly define the role of the project
 manager. Perhaps this lack of clarity arises from the fact that there is no
